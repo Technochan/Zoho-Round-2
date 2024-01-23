@@ -1,8 +1,6 @@
 package Zohoexc;
-
+import java.util.Arrays;
 public class CatchLatestBus {
-	import java.util.Arrays;
-
 	public class CatchLatestBus {
 	    public static void main(String[] args) {
 	        int[] buses = {1, 3, 5, 7, 9};
